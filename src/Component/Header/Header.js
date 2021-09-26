@@ -1,6 +1,7 @@
+// import data from another folder
 import React from 'react';
-import './Header.css'
 
+// creating header component
 const Header = () => {
     return (
         <div className="header bg-warning p-3 ms-4 me-1 rounded-3">

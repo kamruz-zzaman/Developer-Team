@@ -1,3 +1,4 @@
+/* design cart component */
 .cart{
     height: 250px;
     width: 350px;
@@ -11,6 +12,7 @@
     background-color: rgb(72, 24, 161);
     color: white;
 }
+/* make employe name overflow */
 .selectedEmploye{
     overflow-y: auto;
 }

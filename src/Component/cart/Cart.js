@@ -2,15 +2,17 @@ import React from 'react';
 import './cart.css'
 
 const Cart = (props) => {
+    // counting cart data
     const { cart } = props;
     let total = 0;
     let employName = '';
+    // looping card data
     for (const carts of cart) {
         const { Salary, Name } = carts
         total = total + Salary;
         employName += Name + ", ";
     }
-    console.log(employName);
+    // dynamically adding cart data
     return (
         <div className="mt-5  cart">
             <div>
