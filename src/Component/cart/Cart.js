@@ -1,4 +1,5 @@
 import React from 'react';
+import './cart.css'
 
 const Cart = (props) => {
     const { cart } = props;
@@ -11,16 +12,16 @@ const Cart = (props) => {
     }
     console.log(employName);
     return (
-        <div className="mt-5">
+        <div className="mt-5  cart">
             <div>
-                <h4>Developer Added: {props.cart.length}</h4>
-                <h4>Total Cost: ${total}</h4>
+                <p className="fs-5"><span className="fw-bold ">Developer Added:</span> {props.cart.length}</p>
+                <p className="fs-5"><span className="fw-bold ">Total Cost:</span> ${total}</p>
             </div>
-            <div>
+            <div className="selectedEmploye">
                 <p><span className="fw-bold">You Added:</span> {employName}</p>
             </div>
-            <div className="mt-3">
-                <button>Confirm Now</button>
+            <div className="mt-3 cart-btn">
+                <button className="btn btn-danger">Confirm Now</button>
             </div>
         </div>
     );

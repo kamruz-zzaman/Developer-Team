@@ -17,7 +17,7 @@ const Employeer = () => {
     }
     return (
         <div className="row mx-2">
-            <div className="col-9 row row-cols-1 row-cols-md-3 g-4">
+            <div className="col-9 row row-cols-1 row-cols-md-3 g-4 ">
                 {
                     employ.map(employ =>
                         <Employ
