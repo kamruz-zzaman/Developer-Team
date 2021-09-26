@@ -1,0 +1,83 @@
+[
+  {
+    "Key": 501,
+    "Name": "David Patterson",
+    "Designation": "computer scientist",
+    "Age": 76,
+    "Country": "California, Berkeley",
+    "Img": "https://i0.wp.com/www.rankred.com/wp-content/uploads/2019/07/David-Patterson.jpg?w=700&ssl=1",
+    "Salary": 50000
+  },
+  {
+    "Key": 502,
+    "Name": "John Carmack",
+    "Designation": "game developer",
+    "Age": 67,
+    "Country": "USA",
+    "Img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/John-Carmack.jpg?w=700&ssl=1",
+    "Salary": 60000
+  },
+  {
+    "Key": 503,
+    "Name": "Donald Ervin Knuth",
+    "Designation": "mathematician",
+    "Age": 80,
+    "Country": "Russia",
+    "Img": "https://i0.wp.com/www.rankred.com/wp-content/uploads/2019/07/Donald-Ervin-Knuth.png?w=700&ssl=1",
+    "Salary": 80000
+  },
+  {
+    "Key": 504,
+    "Name": "Guido van Rossum",
+    "Designation": "Python programmer",
+    "Age": 56,
+    "Country": "Chine",
+    "Img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/Guido-van-Rossum.jpg?w=700&ssl=1",
+    "Salary": 90000
+  },
+  {
+    "Key": 505,
+    "Name": "James Arthur Gosling",
+    "Designation": "Java programmer",
+    "Age": 65,
+    "Country": "Canada",
+    "Img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/James-Arthur-Gosling.jpg?w=700&ssl=1",
+    "Salary": 86000
+  },
+  {
+    "Key": 506,
+    "Name": "Niklaus Wirth",
+    "Designation": "Swiss computer scientist",
+    "Age": 78,
+    "Country": "Japan",
+    "Img": "https://i1.wp.com/www.rankred.com/wp-content/uploads/2019/07/Niklaus-Wirth.jpg?w=700&ssl=1",
+    "Salary": 78000
+  },
+  {
+    "Key": 507,
+    "Name": "Alan Curtis Kay",
+    "Designation": "GUI Developer",
+    "Age": 52,
+    "Country": "USA",
+    "Img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/Alan-Curtis-Kay.jpg?w=700&ssl=1",
+    "Salary": 84000
+  },
+  {
+    "Key": 508,
+    "Name": "John McCarthy",
+    "Designation": "Lisp programmer",
+    "Age": 68,
+    "Country": "Canada",
+    "Img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/John-McCarthy.jpg?w=700&ssl=1",
+    "Salary": 63000
+  },
+  {
+    "Key": 509,
+    "Name": "Ken Thompson",
+    "Designation": "hacker",
+    "Age": 77,
+    "Country": "UAE",
+    "Img": "https://i1.wp.com/www.rankred.com/wp-content/uploads/2019/07/Ken-Thompson.jpg?w=600&ssl=1",
+    "Salary": 81000
+  }
+]
